@@ -53,6 +53,7 @@ Gambit Chess is a lightweight yet feature‑rich chess game for Windows, written
 ### Starting the Game
 
 JUST DOWNLOAD THE ENTIRE REPOSITORY & PLAY THE GAME BY LAUNCHING "gambit.exe" .
+[After downloading ,extract the only zip file in the directory]
 
 ### Controls
 
